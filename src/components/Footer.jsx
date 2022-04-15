@@ -6,7 +6,12 @@ const Footer = () => {
 			<div className="footer-copyright">
 				<div className="container">
 					&copy; {new Date().getFullYear()} Copyright text
-					<a href="!#" className="grey-text right text-lighten-4">
+					<a
+						href="https://github.com/Martiny404/fortnite-shop"
+						target="_blank"
+						rel="noreferrer"
+						className="grey-text right text-lighten-4"
+					>
 						Repo
 					</a>
 				</div>

@@ -9,7 +9,9 @@ const Header = () => {
 				</a>
 				<ul id="nav-mobile" className="right ">
 					<li>
-						<a href="!#">Repo</a>
+						<a href="https://github.com/Martiny404/fortnite-shop" target="_blank" rel="noreferrer">
+							Repo
+						</a>
 					</li>
 				</ul>
 			</nav>
