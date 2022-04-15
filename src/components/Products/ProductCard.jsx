@@ -23,7 +23,7 @@ const ProductCard = (props) => {
 					}
 					className="btn"
 				>
-					BUY NOW
+					BUY NOaa
 				</button>
 				<span className="right card-price">{price} rub.</span>
 			</div>
